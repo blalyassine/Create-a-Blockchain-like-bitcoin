@@ -1,0 +1,17 @@
+{
+  "name": "create-a-blockchain-like-bitcoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "blal",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "nodejs": "^0.0.0"
+  },
+  "type": "module"
+}
